@@ -1,0 +1,1 @@
+Turn TUI apps into real macOS applications
